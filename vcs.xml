@@ -34,6 +34,10 @@
           <option name="url" value="https://github.com/jacquelineselbach/mavenproject.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/jacquelineselbach/prog2-ss21-exercise1.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
